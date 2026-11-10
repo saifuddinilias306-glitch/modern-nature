@@ -38,3 +38,17 @@
  .zoom-label{font-size:12px;min-height:36px;align-items:center}
  .round-arrow{bottom:12px;right:12px}
 }
+
+/* Keep gallery image height tied to its actual responsive width. */
+.gallery-open img{display:block;width:100%;height:auto;aspect-ratio:1;object-fit:contain;max-height:none}
+.gallery-open{padding:12px;background:#e8e2d7}
+.gallery-grid{align-items:start}
+.gallery-grid figure{min-width:0}
+.gallery-grid figcaption{min-height:66px}
+.photo img,.collection.large img{height:auto;aspect-ratio:1;object-fit:contain}
+.hero-visual>img{height:auto;object-fit:contain}
+@media(max-width:48rem){
+ .gallery-grid{grid-template-columns:1fr;gap:28px}
+ .gallery-open img{width:100%;height:auto;aspect-ratio:1;max-height:none}
+ .gallery-grid figcaption{min-height:0}
+}
