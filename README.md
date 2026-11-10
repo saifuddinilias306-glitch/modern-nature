@@ -15,5 +15,6 @@ Laman dibina menggunakan HTML, CSS dan JavaScript biasa. Fon Google dimuatkan ap
 
 Sintaks JavaScript diperiksa. Laman diperiksa dalam pelayar pada paparan desktop dan 390px. Penapis galeri, buka/tutup gambar, katalog dan menu telefon diuji. Tiada gambar rosak, limpahan mendatar atau ralat konsol dikesan. Destinasi dan mesej pautan WhatsApp diperiksa; tiada mesej dihantar.
 
-Harga, testimoni, janji penghantaran dan tempoh siap tidak direka. Foto dan logo menggunakan bahan yang diberikan. Laman diterbitkan melalui GitHub Pages: https://saifuddinilias306-glitch.github.io/modern-nature/
+Harga, testimoni, janji penghantaran dan tempoh siap tidak direka. Foto dan logo menggunakan bahan yang diberikan. Alamat GitHub Pages yang dirancang (penerbitan belum selesai): https://saifuddinilias306-glitch.github.io/modern-nature/
+
 
